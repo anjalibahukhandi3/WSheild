@@ -71,42 +71,8 @@ WSheild is a mobile application designed to enhance women's safety by combining 
 ### Backend & APIs
 
 * REST APIs
-* Firebase (if configured)
+* Firebase 
 
-### Tools
-
-* Git
-* GitHub
-* Android Studio
-* VS Code
-
----
-
-# 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/anjalibahukhandi3/WSheild.git
-```
-
-Go to the project directory
-
-```bash
-cd WSheild
-```
-
-Install dependencies
-
-```bash
-flutter pub get
-```
-
-Run the application
-
-```bash
-flutter run
-```
 
 
 # 🎯 Future Improvements
@@ -120,14 +86,7 @@ flutter run
 * Multi-language support
 
 
-
-# 👩‍💻 Developer
-
-**Anjali Bahukhandi**
-
 Flutter Developer • AI Enthusiast • Software Engineering Student
-
-GitHub: https://github.com/anjalibahukhandi3
 
 
 
