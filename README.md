@@ -1,93 +1,42 @@
-# 🛡️ WSheild
+# WSheild
 
-> **An AI-powered women safety and smart navigation application built with Flutter.**
+WSheild is a Flutter mobile app exploring practical safety tools for everyday travel: location sharing, emergency actions, safer route discovery, and trusted contacts in one place.
 
-WSheild is a mobile application designed to enhance women's safety by combining real-time location tracking, emergency assistance, intelligent route planning, and AI-powered features into one platform.
+## Screenshots
 
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="docs/screenshots/sos-navigation.jpg" alt="WSheild map with current location and emergency action" width="300"></td>
+    <td align="center" width="50%"><img src="docs/screenshots/trusted-guardians.jpg" alt="WSheild trusted guardian contact forms" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Location and emergency screen</strong><br>A map view with current location and a prominent emergency action.</td>
+    <td align="center"><strong>Trusted guardians</strong><br>Contact details for people to reach when support is needed.</td>
+  </tr>
+</table>
 
----
+## Features
 
-# ✨ Features
+- Emergency action designed for quick access.
+- Location and map views for situational awareness.
+- Safe route and place discovery using OpenStreetMap and Photon.
+- Trusted guardian contact management.
+- Safety information and community alert concepts.
 
-## 🚨 Emergency SOS
+## Tech stack
 
-* One-tap emergency alert
-* Instantly notifies trusted contacts
-* Shares live location during emergencies
-* Supports audio/video evidence collection
+- Flutter and Dart
+- Google Maps Flutter and Flutter Map
+- Location and geocoding packages
+- OpenStreetMap and Photon
+- Hive for local storage
+- HTTP and URL Launcher
 
-## 📍 Live Location Tracking
+## Run locally
 
-* Real-time GPS tracking
-* Share live location with guardians
-* Continuous location updates
+1. Install Flutter and configure an Android or iOS device/emulator.
+2. Clone this repository and run `flutter pub get`.
+3. Configure the required values in the local `.env` file. Keep secrets out of commits.
+4. Run `flutter run`.
 
-## 🗺️ Smart Safe Navigation
-
-* Suggests safer travel routes
-* OpenStreetMap integration
-* Place search using Photon API
-* AI-assisted navigation
-
-## 👨‍👩‍👧 Guardian System
-
-* Add trusted family and friends
-* Guardians receive emergency notifications
-* Quick access during critical situations
-
-## 🔴 Panic Button
-
-* Easily accessible emergency button
-* Sends instant alerts
-* Activates emergency workflow immediately
-
-## 📢 Community Emergency Alerts
-
-* Emergency alerts can be broadcast to a Telegram community
-* Enables faster awareness and community support
-* Helps nearby users stay informed during emergencies
-
-## 💡 Safety Resources
-
-* Emergency helpline numbers
-* Personal safety guidelines
-* Useful safety information
-
----
-
-# 🏗️ Tech Stack
-
-### Mobile
-
-* Flutter
-* Dart
-
-### Maps & Location
-
-* OpenStreetMap
-* Photon API
-* Geolocation Services
-
-### Backend & APIs
-
-* REST APIs
-* Firebase 
-
-
-
-# 🎯 Future Improvements
-
-* AI-based danger prediction
-* Voice-activated SOS
-* Fake call feature
-* Offline emergency mode
-* Wearable device integration
-* Emergency contact analytics
-* Multi-language support
-
-
-Flutter Developer • AI Enthusiast • Software Engineering Student
-
-
-
-
+The screenshots are app captures cropped to focus on the relevant interface. The map screenshot omits the legacy in-app title bar so the README consistently identifies the project as WSheild.
