@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1220" viewBox="0 0 720 1220" role="img" aria-labelledby="title desc">
+  <title id="title">WSheild trusted contacts concept</title>
+  <desc id="desc">Illustrative WSheild interface for managing trusted contacts and quick emergency access.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf7ff"/><stop offset="1" stop-color="#d9edfc"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3297ed"/><stop offset="1" stop-color="#1769cb"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#17466f" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="720" height="1220" rx="54" fill="url(#canvas)"/>
+  <circle cx="90" cy="1060" r="150" fill="#c3e2f8" opacity=".6"/>
+  <circle cx="622" cy="145" r="110" fill="#c9e5f8" opacity=".65"/>
+  <text x="54" y="60" fill="#4d7597" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">TRUSTED CONTACTS  /  CONCEPT VISUAL</text>
+  <g filter="url(#shadow)">
+    <rect x="116" y="88" width="488" height="1056" rx="56" fill="#18344e"/>
+    <rect x="132" y="104" width="456" height="1024" rx="42" fill="#f7fbff"/>
+    <path d="M132 146a42 42 0 0 1 42-42h372a42 42 0 0 1 42 42v178H132z" fill="#fff"/>
+    <circle cx="173" cy="156" r="20" fill="#e7f3fd"/>
+    <path d="M181 156h-16m0 0 7-7m-7 7 7 7" fill="none" stroke="#2478ce" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="209" y="152" fill="#183b5b" font-family="Arial, sans-serif" font-size="23" font-weight="700">WSheild</text>
+    <text x="209" y="178" fill="#6f8294" font-family="Arial, sans-serif" font-size="15">Your safety circle</text>
+    <rect x="160" y="216" width="400" height="75" rx="22" fill="#e9f5ff"/>
+    <circle cx="194" cy="253" r="19" fill="#cde7fb"/>
+    <path d="M194 241v24m-12-12h24" stroke="#277bc7" stroke-width="3" stroke-linecap="round"/>
+    <text x="230" y="248" fill="#21415d" font-family="Arial, sans-serif" font-size="16" font-weight="700">Trusted contacts</text>
+    <text x="230" y="271" fill="#6d8294" font-family="Arial, sans-serif" font-size="13">People you choose to reach out to.</text>
+    <text x="160" y="375" fill="#183b5b" font-family="Arial, sans-serif" font-size="27" font-weight="700">Your guardians</text>
+    <text x="160" y="405" fill="#718497" font-family="Arial, sans-serif" font-size="15">Keep important contacts close.</text>
+    <rect x="160" y="434" width="400" height="157" rx="24" fill="#fff" stroke="#dceaf5" stroke-width="2"/>
+    <circle cx="211" cy="489" r="29" fill="#dceeff"/>
+    <circle cx="211" cy="480" r="9" fill="#4b92d2"/><path d="M194 510c3-13 11-19 17-19s14 6 17 19" fill="#4b92d2"/>
+    <text x="258" y="480" fill="#23435f" font-family="Arial, sans-serif" font-size="19" font-weight="700">Guardian 1</text>
+    <text x="258" y="507" fill="#7c8da0" font-family="Arial, sans-serif" font-size="14">Trusted contact</text>
+    <circle cx="527" cy="488" r="17" fill="#edf6ff"/>
+    <path d="M520 488h14m-7-7v14" stroke="#2c83cf" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M188 541h344" stroke="#e8eff5" stroke-width="2"/>
+    <rect x="160" y="611" width="400" height="157" rx="24" fill="#fff" stroke="#dceaf5" stroke-width="2"/>
+    <circle cx="211" cy="666" r="29" fill="#e0f5f2"/>
+    <circle cx="211" cy="657" r="9" fill="#399d91"/><path d="M194 687c3-13 11-19 17-19s14 6 17 19" fill="#399d91"/>
+    <text x="258" y="657" fill="#23435f" font-family="Arial, sans-serif" font-size="19" font-weight="700">Guardian 2</text>
+    <text x="258" y="684" fill="#7c8da0" font-family="Arial, sans-serif" font-size="14">Trusted contact</text>
+    <circle cx="527" cy="665" r="17" fill="#edf6ff"/>
+    <path d="M520 665h14m-7-7v14" stroke="#2c83cf" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M188 718h344" stroke="#e8eff5" stroke-width="2"/>
+    <rect x="160" y="794" width="400" height="62" rx="19" fill="url(#blue)"/>
+    <circle cx="198" cy="825" r="12" fill="none" stroke="#fff" stroke-width="2.4"/><path d="M198 818v14m-7-7h14" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="224" y="831" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Add trusted contact</text>
+    <rect x="160" y="887" width="400" height="119" rx="24" fill="#fff4f2" stroke="#f6d7d2" stroke-width="2"/>
+    <circle cx="204" cy="946" r="24" fill="#fbe2de"/>
+    <path d="M204 932c-8 0-14 6-14 14 0 11 14 23 14 23s14-12 14-23c0-8-6-14-14-14z" fill="none" stroke="#dc574c" stroke-width="2.7"/>
+    <circle cx="204" cy="946" r="4" fill="#dc574c"/>
+    <text x="244" y="940" fill="#7b302b" font-family="Arial, sans-serif" font-size="16" font-weight="700">Emergency SOS</text>
+    <text x="244" y="967" fill="#a76b65" font-family="Arial, sans-serif" font-size="14">Quick access to emergency actions.</text>
+    <path d="M528 938h15m-7-7 7 7-7 7" fill="none" stroke="#c14e44" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="360" y="1097" fill="#74879a" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" text-anchor="middle">ILLUSTRATIVE FEATURE CONCEPT · NOT AN APP SCREENSHOT</text>
+  </g>
+</svg>
