@@ -15,10 +15,6 @@ WSheild is a Flutter mobile app exploring practical safety tools for everyday tr
   </tr>
 </table>
 
-## Feature concept visuals
-
-These original vector mockups illustrate route planning and trusted-contact flows. They are concept art, not screenshots of shipped app screens or a guarantee that a route is safe.
-
 <table>
   <tr>
     <td align="center" width="50%"><img src="docs/illustrations/concept-route-map.svg" alt="Illustrative WSheild route planning screen with a map and emergency action" width="340"></td>
